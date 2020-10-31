@@ -476,3 +476,9 @@ sdjlasdjasdlsadjlas:wq
 # 拷贝是一个手动过程，未来我们使用 -v 卷的技术，可以实现，自动同步
 ```
 
+###### 启动es的命令
+
+```shell
+docker run -d --name elasticsearch -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" -e ES_JAVA_OPTS="-Xms64m _Xmx512m" elasticsearch:7.6.2  # 通过-e约束内存大小
+```
+
