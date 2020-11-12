@@ -32,21 +32,21 @@
 
 工作内容：
 
-- 星际系统的开发
-  - 提供物料反查的反向查询功能，满足供应商及内部的日常查询需要，减轻了采购的工作量，频率4次/月。
-  - 开启定时任务+分布式锁更新物料的信息。
+- xx系统的开发
+  - 开发了向xx提供xx的功能，由人工收集数据改自动收集，减轻了xx的工作量，频率4次/月。
+  - 开启定时任务+分布式锁更新xx的信息。
 
-- 星环系统的优化
+- xx系统的优化
   - 使用线程池优化物料查询效率，查询速度从约<font color=c00000>11000ms</font> 提升至<font color=c00000>4660ms</font> 。
   - 使用腾讯云的COS云存储，开发文档附件的上传下载功能，解决线下文档的交互。
-- ODM匹配指标建设
+- 业务指标建设
   - 复杂sql的编写：通过<font color=c00000>week、month、quarter、year</font> 等函数进行分周、月、季、年统计数据，并灵活运用<font color=c00000>sum、count</font> 聚合函数结合<font color=c00000>case when</font> 过滤统计数据，将统计后的数据通过内部框架使用报表的形式直观的呈现出来。
 
 -----
 
 ##### <font color=#0066CC>项目经验：</font>
 
-**贴吧网站**				作品地址：[http://129.28.146.162/](http://129.28.146.162/)				 职位：JAVA后台开发
+**贴吧网站**				作品地址：[http://xxx.xxx.xxx.xxx/](http://xxx.xxx.xxx.xxx/)				 职位：JAVA后台开发
 
 >- **<font color=000000>使用技术：</font> **<font color=c00000>SpringBoot、spring security、mybatis 、mysql、redis、kafka、elasticsearch、caffeine、 quarzt、thymeleaf、Lombok、bootstrap。</font> 
 >- <font color=000000>**项目背景和描述：**</font> 提供一个内部学术交流的网站。通过帖子和私信的交互交流技术和学术问题。 
@@ -58,7 +58,7 @@
 >  - <font color=c00000>Elasticsearch </font> 实现站内帖子搜索。 
 >  - <font color=c00000>Caffeine </font> 实现本地缓存，<font color=c00000>Quartz </font> 定时热帖排行。 
 
-**博客建站**				作品地址：[http://www.wlison.cn/ ](http://www.wlison.cn/ 	)			职位：JAVA后台开发
+**博客建站**				作品地址：[http://www.xxx.cn/ ](http://www.xxx.cn/ 	)			职位：JAVA后台开发
 
 >- <font color=000000>**使用技术：**</font> SpringBoot、mybatis、mysql、redis、markdown、thymeleaf、Lombok、bootstrap。
 >- <font color=000000>**项目介绍：**</font> 博客文章的撰写和发布，访客留言讨论区。  
