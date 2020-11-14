@@ -1,15 +1,15 @@
-| **<font color=#2D91F4> 陈老板 </font>**                      |                                                              |
+| **<font color=#2D91F4> 陈三 </font>**                        |                                                              |
 | ------------------------------------------------------------ | -----------------------------------------------------------: |
-| **应届毕业生｜硕士｜男**<br/><br/>**所在地：**广东深圳<br/><br/>**邮箱：**abc@aliyun.com<br/><br/>**电话：**13800138000 | <img src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=387115031,2341211060&fm=26&gp=0.jpg" width=150> |
+| **应届毕业生｜硕士｜男**<br/>**所在地：**广东深圳<br/>**邮箱：**abc@aliyun.com<br/>**电话：**13800138000 | <img src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=387115031,2341211060&fm=26&gp=0.jpg" width=150> |
 
 ##### <font color=#0066CC>求职意向：</font>  JAVA开发工程师
 
 ##### <font color=#0066CC>个人技能：</font>
 
 ```java
-◆ 熟悉 Java，掌握 J2EE 技术规范，有 Web 后台开发项目的经验。
+◆ 熟悉 Java，掌握 J2EE 技术规范，有多个Web 后台开发项目的经验。
 ◆ 熟悉数据结构及基本算法、设计模式、JVM 知识。 
-◆ 熟悉 Linux 基本命令，有 Centos7 的分布式项目部署经验。 
+◆ 熟悉 Linux 基本命令，有在服务器下的分布式项目部署经验。会使用云对象存储、RDS数据库。
 ◆ 了解主流框架 Spring Boot、Spring、SpringMVC 及 mybatis 框架。使用 Git 管理项目。 
 ◆ 熟悉 Mysql 索引、数据结构、事务，熟悉并使用过 Redis 数据库，熟悉 redis 底层数据结构。 
 ◆ 了解计算机网络相关知识，对 HTML、CSS、JavaScript 页面技术有一定的了解。 
@@ -22,7 +22,7 @@
 
 **硕士**     2018.9-2021.6								学校：中南大学         		专业：计算机科学与技术
 
-**本科**     2014.9-2018.6								学校：门头沟学院          专业：计算机科学与技术
+**本科**     2014.9-2018.6								学校：门头沟学院            专业：计算机科学与技术
 
 -----
 
@@ -38,7 +38,7 @@
 
 - xx系统的优化
   - 使用线程池优化物料查询效率，查询速度从约<font color=c00000>11000ms</font> 提升至<font color=c00000>4660ms</font> 。
-  - 使用腾讯云的COS云存储，开发文档附件的上传下载功能，解决线下文档的交互。
+  - 使用腾讯云的COS云存储，开发xx系统的文档附件的上传下载功能，解决线下文档的交互。
 - 业务指标建设
   - 复杂sql的编写：通过<font color=c00000>week、month、quarter、year</font> 等函数进行分周、月、季、年统计数据，并灵活运用<font color=c00000>sum、count</font> 聚合函数结合<font color=c00000>case when</font> 过滤统计数据，将统计后的数据通过内部框架使用报表的形式直观的呈现出来。
 
@@ -49,7 +49,7 @@
 **贴吧网站**				作品地址：[http://xxx.xxx.xxx.xxx/](http://xxx.xxx.xxx.xxx/)				 职位：JAVA后台开发
 
 >- **<font color=000000>使用技术：</font> **<font color=c00000>SpringBoot、spring security、mybatis 、mysql、redis、kafka、elasticsearch、caffeine、 quarzt、thymeleaf、Lombok、bootstrap。</font> 
->- <font color=000000>**项目背景和描述：**</font> 提供一个内部学术交流的网站。通过帖子和私信的交互交流技术和学术问题。 
+>- <font color=000000>**项目背景和描述：**</font> 提供XXXXXXXX 
 >- **<font color=000000>项目部署：</font> **腾讯云服务器部署主项目 + 阿里云部署 Elasticsearch + 对象存储 + 云数据库。 
 >- **<font color=000000>主要职责：</font>  **
 >  - 后端功能开发：帖子发布、敏感词过滤、登录注册、邮件发送、评论回复、点赞关注、发送私信、搜索帖子、用户信息管理； 
